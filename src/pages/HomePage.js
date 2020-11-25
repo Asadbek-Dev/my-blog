@@ -6,7 +6,7 @@ const HomePage=()=>(
         Asadbek Sobirov Asadbek SobirovAsadbek SobirovAsadbek SobirovAsadbek SobirovAsadbek SobirovAsadbek SobirovAsadbek Sobirov
         Asadbek SobirovAsadbek SobirovAsadbek SobirovAsadbek SobirovAsadbek SobirovAsadbek SobirovAsadbek SobirovAsadbek Sobirov
     </p>
-    <h2>Assalomu aleykum</h2>
+    <h2>Assalomu aleykum Xush Kelibsiz!</h2>
     </>
     
 );
